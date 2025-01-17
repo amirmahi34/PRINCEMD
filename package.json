@@ -39,7 +39,7 @@
     "@whiskeysockets/baileys": "git+https://github.com/DASTAGHIR/Baileys.git#master",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.7.2",
-    "@bochilteam/scraper": "^5.0.1"
+    "@bochilteam/scraper": "^5.0.1",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.1.2",
     "mathjs": "^11.3.0",
