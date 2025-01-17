@@ -39,6 +39,7 @@
     "@whiskeysockets/baileys": "git+https://github.com/DASTAGHIR/Baileys.git#master",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.7.2",
+    "@bochilteam/scraper": "^5.0.1"
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.1.2",
     "mathjs": "^11.3.0",
@@ -120,7 +121,7 @@
     "@xct007/frieren-scraper": "^0.0.2"
   },
     "optionalDependencies": {
-    "cheerio": "npm:cheerio@1.0.0-rc.12",
-    "@bochilteam/scraper": "^4.2.4"
+    "cheerio": "npm:cheerio@1.0.0-rc.12"
+    
   }
 }
