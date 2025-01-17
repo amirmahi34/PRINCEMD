@@ -39,6 +39,8 @@
     "@whiskeysockets/baileys": "git+https://github.com/DASTAGHIR/Baileys.git#master",
     "acrcloud": "^1.4.0",
     "api-dylux": "^1.7.2",
+    "youtube-dl-exec": "^3.0.13",
+    "new-youtube-exec": "^1.0.5",
     "@bochilteam/scraper": "^5.0.1",
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.1.2",
